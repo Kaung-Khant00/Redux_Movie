@@ -1,0 +1,6 @@
+export const ActionsType = {
+    FETCH_MOVIES : 'FETCH_MOVIES' , 
+    SELECT_MOVIES : 'SELECT_MOVIES' ,
+    REMOVE_MOVIES : 'REMOVE_MOVIES',
+    SAVED_MOVIES : 'SAVED_MOVIES'
+}
